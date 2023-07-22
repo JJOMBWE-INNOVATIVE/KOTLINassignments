@@ -9,14 +9,15 @@ import kotlin.math.sqrt
         val f = readln().toInt()
         val h = g - f
 
-        print(h)
+        println(h)
 
+// number 2
     val a = 4
     val b = 3
     val d = a*a + b*b
     val e = d.toFloat()
     val c = sqrt(e)
-    print(c.toInt())
+    println(c.toInt())
 }
 
 
